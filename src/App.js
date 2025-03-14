@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-//App function
+//App functionn
 export default function App() {
   const [advice, setAdvice] = useState("");
   const [count, setCount] = useState(0);
